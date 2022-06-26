@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Matt</h3>
+<h3 align="left">Hi 👋, I'm Matt</h3>
 
 - 🔭 I’m currently have too much free time.
 
