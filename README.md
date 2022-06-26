@@ -36,7 +36,7 @@
 </a>
 <!-- C# -->
 <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="35" height="35"/> 
 </a>
 </p>
 
@@ -44,7 +44,7 @@
 <p align="left">
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="35" height="35"/> 
 </a>
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank"> 
@@ -52,7 +52,11 @@
 </a> 
 <!-- Vue -->
 <a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/> 
+</a>
+<!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="35" height="35"/> 
 </a>
 <!-- Express -->
 <a href="https://expressjs.com" target="_blank"> 
@@ -93,5 +97,9 @@
 <!-- Node JS -->
 <a href="https://nodejs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
+</a>
+<!-- JIRA -->
+<a href="https://www.atlassian.com/pl/software/jira" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="35" height="35"/> 
 </a>
 </p>
