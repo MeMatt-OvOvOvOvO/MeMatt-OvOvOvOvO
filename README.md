@@ -102,4 +102,8 @@
 <a href="https://www.atlassian.com/pl/software/jira" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="35" height="35"/> 
 </a>
+<!-- Bitbucket -->
+<a href="https://bitbucket.org/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="35" height="35"/> 
+</a>
 </p>
