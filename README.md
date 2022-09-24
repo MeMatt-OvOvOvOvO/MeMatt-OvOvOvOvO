@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Matt</h2>
+<h2 align="left">Hi, I'm Matt</h2>
 
 - 🔭 I’m currently in 4th class of technical secondary school.
 
