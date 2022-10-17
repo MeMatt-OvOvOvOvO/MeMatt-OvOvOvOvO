@@ -30,6 +30,10 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="35" height="35"/> 
 </a>
+<!-- Java -->
+<a href="https://www.java.com/en/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/> 
+</a>
 </p>
 
 <h4 align="left">Frameworks & libraries:</h4>
