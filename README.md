@@ -6,18 +6,10 @@
 
 - 👀 I’m interested in basketball, hiking and coding.
 
-- 📫 How to reach me mj4nicki@gmail.com
+- 📫 How to reach me: mj4nicki@gmail.com
 
 <h4 align="left">Languages:</h4>
 <p align="left"> 
-<!-- HTML -->
-<a href="https://www.w3schools.com/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/>
-</a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
-</a>
 <!-- JS -->
 <a href="https://www.javascript.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
