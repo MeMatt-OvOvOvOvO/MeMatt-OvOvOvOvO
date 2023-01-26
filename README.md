@@ -1,12 +1,12 @@
 <h2 align="left">Hi, I'm Matt</h2>
 
-- 🔭 I’m currently in 4th class of technical secondary school.
+- 🕙 I’m currently in 4th class of technical secondary school.
 
-- 🌱 I’m currently studying for some exams.
+- 👨‍🎓 I’m currently studying for some exams.
 
 - 👀 I’m interested in basketball, hiking and coding.
 
-- 📫 How to reach me: mj4nicki@gmail.com
+- 📲 How to reach me: mj4nicki@gmail.com
 
 <h4 align="left">Languages:</h4>
 <p align="left"> 
