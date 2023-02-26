@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in basketball, hiking and coding.
 
-- 📲 How to reach me: mj4nicki@gmail.com, linkedin.com/in/mateusz-janicki-2778b8212
+- 📲 How to reach me: mj4nicki@gmail.com, <a href="linkedin.com/in/mateusz-janicki-2778b8212">Linkedin</a>
 
 <h4 align="left">Languages:</h4>
 <p align="left"> 
