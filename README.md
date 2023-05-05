@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Matt</h2>
 
-- 🕙 I’m currently in 4th class of technical secondary school.
+- 🕙 I’m currently writing matura exams.
 
-- 👨‍🎓 I’m currently studying for some exams.
+- 👨‍🎓 I’m currently searching for a job.
 
 - 👀 I’m interested in basketball, hiking and coding.
 
