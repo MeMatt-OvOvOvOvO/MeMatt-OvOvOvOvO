@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Matt</h2>
 
-- 🕙 I’m currently writing matura exams.
+- 🕙 I have too much free time.
 
 - 👨‍🎓 I’m currently searching for a job.
 
