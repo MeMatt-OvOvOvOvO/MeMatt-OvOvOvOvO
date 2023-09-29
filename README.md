@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Matt</h2>
 
-- 🕙 I have too much free time.
+- 🕙 I'm studying computer science.
 
-- 👨‍🎓 I’m currently searching for a job.
+- 👨‍🎓 I’m currently working as a Fullstack developer for <a href="https://www.copro.no/" target="_blank">COPRO</a>.
 
 - 👀 I’m interested in basketball, hiking and coding.
 
