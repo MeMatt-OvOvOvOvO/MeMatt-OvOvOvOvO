@@ -44,7 +44,7 @@
 </a>
 <!-- SailsJs -->
 <a href="https://sailsjs.com/" target="_blank"> 
-  <img src="https://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png" alt="sailsjs" width="35" height="35"/> 
+  <img src="https://sailsjs.com/images/logos/sails-logo_dkBg_ltBlue.png" alt="sailsjs" width="75" height="35"/> 
 </a>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank"> 
