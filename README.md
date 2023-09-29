@@ -38,6 +38,14 @@
 
 <h4 align="left">Frameworks & libraries:</h4>
 <p align="left">
+<!-- Angular -->
+<a href="https://angular.io/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="35" height="35"/> 
+</a>
+<!-- SailsJs -->
+<a href="https://sailsjs.com/" target="_blank"> 
+  <img src="https://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png" alt="sailsjs" width="35" height="35"/> 
+</a>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="35" height="35"/> 
