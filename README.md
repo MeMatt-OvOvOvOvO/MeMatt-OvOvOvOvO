@@ -2,7 +2,7 @@
 
 - 🕙 I'm studying computer science.
 
-- 👨‍🎓 I’m currently working as a Fullstack developer for <a href="https://www.copro.no/" target="_blank">COPRO</a>.
+- 👨‍🎓 I’m currently working as a Fullstack developer for <a href="https://www.copro.no/" target="_blank">COPRO.NO</a>.
 
 - 👀 I’m interested in basketball, hiking and coding.
 
